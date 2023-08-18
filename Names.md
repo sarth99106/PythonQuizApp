@@ -2,6 +2,6 @@
 
 Names:
 Sarthak
-AShita
+Ashita
 Divya
 Akashdeep Singh Gill
